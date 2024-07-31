@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vinda ao meu perfil 💙
 
-<!--
-**joaovictor738108/joaovictor738108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é joao victor
 
-Here are some ideas to get you started:
+- Estou estudando no Alura 
+- Estou me desevolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e conpartilhamento dos meus projeto desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entra em contato comigo 📫
+
+0000109540555Xsp@al.edcacao.sp.gov.br
+
+![image](https://github.com/user-attachments/assets/4d378af0-6fbe-4f2d-a799-d1eae2b1a18a)
