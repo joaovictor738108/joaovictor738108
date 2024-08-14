@@ -8,6 +8,6 @@ meu nome é joao victor
 
 ### Voce entra em contato comigo 📫
 
-0000109540555Xsp@al.edcacao.sp.gov.br
+0000109540555Xsp@al.educacao.sp.gov.br
 
 ![image](https://github.com/user-attachments/assets/4d378af0-6fbe-4f2d-a799-d1eae2b1a18a)
